@@ -170,7 +170,7 @@ button{
 }
 .tooltip{
   position: absolute;
-  right: 0;
+  right: -7px;
   top: 17px;
 }
 .tooltip img{
